@@ -1,0 +1,7 @@
+{
+  "SitePort": 800,
+  "DBURL": "mongodb://localhost:27017/",
+  "DB": "CentralDatabase",
+  "PublicKey": "publickeyhere",
+  "SecretKey": "SecretKeyhere"
+}
